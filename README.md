@@ -7,7 +7,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **Frontend web developmentns**
+- 👯 I’m looking to collaborate on **Frontend** with *React* and **Backend** with *Nodejs* webdevelopment.
 
 - 📫 How to reach me **jitutesfaye17@gmail.com**
 
